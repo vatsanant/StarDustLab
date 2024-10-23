@@ -1,3 +1,3 @@
-# StarDustLab.github.io
+# StarDustLab 
 
-Here we try to expand our understanding of universe. 
+# Here we try to expand our understanding of universe. 
